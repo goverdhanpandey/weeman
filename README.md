@@ -73,8 +73,8 @@ The settings will be saved for the next time you run weeman.py.
 
 Get Weeman
 =============
-                git clone git://github.com/Hypsurus/weeman
+                git clone git://github.com/goverdhanpandey/weeman
   
-Copyright 2015 (C) Hypsurus <hypsurus@mail.ru>.
+Copyright 2015 (C) Goverdhan 
 
 License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
